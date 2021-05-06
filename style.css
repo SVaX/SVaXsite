@@ -1,0 +1,166 @@
+#header
+{
+	position: absolute;
+width: 1918px;
+height: 157px;
+left: 0px;
+top: 0px;
+background-image: url(Headerheader.png)
+}
+#menu
+{
+position: absolute;
+width: 1920px;
+height: 72px;
+left: 0px;
+top: 148px;
+}
+#submenu1
+{
+	position: absolute;
+width: 557px;
+height: 66px;
+left: 0px;
+top: 4px;
+
+background: #0DC646;
+border: 5px solid #FFFFFF;
+box-sizing: border-box;
+}
+#submenu2{position: absolute;
+width: 537px;
+height: 66px;
+left: 557px;
+top: 4px;
+
+background: #0DC646;
+border: 5px solid #FFFFFF;
+box-sizing: border-box;}
+#submenu3{position: absolute;
+width: 412px;
+height: 66px;
+left: 1094px;
+top: 4px;
+
+background: #0DC646;
+border: 5px solid #FFFFFF;
+box-sizing: border-box;}
+#submenu4{position: absolute;
+width: 414px;
+height: 66px;
+left: 1506px;
+top: 4px;
+
+background: #0DC646;
+border: 5px solid #FFFFFF;
+box-sizing: border-box;}
+#content{position: absolute;
+width: 1918px;
+height: 754px;
+left: 0px;
+top: 216px;
+background-image: url(Content.png)
+}
+#footer{/*position: absolute;
+width: 1920px;
+height: 110px;
+left: 0px;
+top: 970px;*/
+position: absolute;
+width: 1920px;
+height: 110px;
+left: 0px;
+top: 970px;
+
+background: #875F41;
+border: 5px solid #FFFFFF;
+box-sizing: border-box;}
+#text1{position: absolute;
+width: 290px;
+height: 75px;
+left: 208px;
+top: -5px;
+
+font-family: Roboto;
+font-style: italic;
+font-weight: bold;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+#text2{position: absolute;
+width: 290px;
+height: 75px;
+left: 200px;
+top: -5px;
+
+font-family: Roboto;
+font-style: italic;
+font-weight: bold;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+#text3{position: absolute;
+width: 344px;
+height: 75px;
+left: 50px;
+top: -6px;
+
+font-family: Roboto;
+font-style: italic;
+font-weight: bold;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+#text4{position: absolute;
+width: 290px;
+height: 75px;
+left: 100px;
+top: -6px;
+
+font-family: Roboto;
+font-style: italic;
+font-weight: bold;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+#text5{position: absolute;
+width: 1699px;
+height: 41px;
+left: 134px;
+top: 24px;
+
+font-family: Roboto;
+font-style: italic;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;}
+#text6{position: absolute;
+width: 316px;
+height: 14px;
+left: 1518px;
+top: 86px;
+
+font-family: Roboto;
+font-style: italic;
+font-weight: bold;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #000000;
+}
